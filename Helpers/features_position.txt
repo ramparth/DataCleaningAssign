@@ -1,0 +1,17 @@
+##Loading date for features tBodyAcc-XYZ ; 1:6
+##Loading date for features tGravityAcc-XYZ; 41:46
+##Loading date for features tBodyAccJerk-XYZ; 81:86
+##Loading date for features tBodyGyro-XYZ; 121:126
+##Loading date for features tBodyGyroJerk-XYZ; 161:166
+##Loading date for features tBodyAccMag; 201:206
+##Loading date for features tGravityAccMag; 214:215
+##Loading date for features tBodyAccJerkMag;227:228
+##Loading date for features tBodyGyroMag;240:241
+##Loading date for features tBodyGyroJerkMag;253-254
+##Loading date for features fBodyAcc-XYZ;266:271
+##Loading date for features fBodyAccJerk-XYZ;345:350
+##Loading date for features fBodyGyro-XYZ;424:429
+##Loading date for features fBodyAccMag;503:504
+##Loading date for features fBodyAccJerkMag;516:517
+##Loading date for features fBodyGyroMag;529-530
+##Loading date for features fBodyGyroJerkMag;542:543
